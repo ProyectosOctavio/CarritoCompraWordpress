@@ -1,0 +1,50 @@
+2022-10-23T05:00:50+00:00 ERROR Empty response in data feed
+2022-10-23T05:00:50+00:00 ERROR Empty response in data feed
+2022-10-23T05:00:55+00:00 ERROR Error getting data feed
+2022-10-23T05:00:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 5012 milliseconds with 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-10-23T05:00:55+00:00 ERROR Empty response in data feed
+2022-10-23T05:00:56+00:00 ERROR Empty response in data feed
+2022-10-23T05:01:00+00:00 ERROR Error getting data feed
+2022-10-23T05:01:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 5007 milliseconds with 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-10-23T05:01:00+00:00 ERROR Empty response in data feed
+2022-10-23T05:01:00+00:00 ERROR Empty response in data feed
